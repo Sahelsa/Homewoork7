@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+.item1{
+    text-align: center;
+}
+.con1{
+    width: 23%;
+}
+.img-con1{
+    width: 100%;
+}
+.continer{
+    justify-content: space-evenly;
+    display: flex;
+}
+.con2{
+    display:flex;
+    justify-content: center;
+}
+.item-con2{
+    padding: 10px;
+    border: 2px;
+}
+.item-con2:hover{
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+}
